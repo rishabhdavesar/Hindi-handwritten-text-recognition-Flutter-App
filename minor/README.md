@@ -1,4 +1,4 @@
-# minor
+# FrontEnd (Flutter)
 
 A new Flutter project.
 
